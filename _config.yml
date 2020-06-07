@@ -1,10 +1,9 @@
-<<<<<<< HEAD
 # Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Smart Blog
 subtitle: ''
 description: ''
 keywords:
@@ -100,6 +99,4 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: ''
-=======
-theme: jekyll-theme-minimal
->>>>>>> refs/remotes/origin/master
+  theme: jekyll-theme-minimal

@@ -98,5 +98,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: ''
-  theme: jekyll-theme-minimal
+  type: 'git'
+  repo: https://github.com/smartyu/smartguo.github.io
+  branch: gh-pages
